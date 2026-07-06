@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standard]
 python-dotenv
-anthropic
+groq
 python-multipart
+pdfplumber
